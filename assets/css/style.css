@@ -67,6 +67,7 @@ body {
 
 .portfolio img {
     width: 300px;
+    margin: 1px;
     border-radius: 10px;
 }
 
