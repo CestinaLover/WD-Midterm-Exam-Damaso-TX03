@@ -48,6 +48,18 @@ body {
     text-align: center;
 }
 
+.sectionleft {
+    padding: 3rem 0;
+    text-align: left;
+}
+
+
+.sectionright {
+    padding: 3rem 0;
+    text-align: right;
+}
+
+
 .section h2 {
     margin-bottom: 1rem;
     font-size: 2rem;
